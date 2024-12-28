@@ -130,7 +130,7 @@ plt.show()
 ```
 #### **Results**
 
-![Likelihood of Skills Requested in AANZFTA Job Postings](image.png)
+![Likelihood of Skills Requested in AANZFTA Job Postings](Image/image.png)
 
 *Bar graph visualizing the salary for the top 3 data roles and their top 5 skills associated with each.*
 
@@ -182,7 +182,7 @@ plt.tight_layout()
 plt.show()
 ```
 #### **Results**
-![Trending Top Skills for Data Analysts in the AANZFTA Countries](image-1.png)
+![Trending Top Skills for Data Analysts in the AANZFTA Countries](Image/image-1.png)
 *Bar graph visualizing the trending top skills for data analysts in the AANZFTA Countries in 2023.*
 
 ### **Insights:**
@@ -250,7 +250,7 @@ plt.show()
 ```
 
 #### Results
-![Salary Distributions of Data Jobs in the AANZFTA Countries](image-2.png)
+![Salary Distributions of Data Jobs in the AANZFTA Countries](Image/image-2.png)
 *Box plot visualizing the salary distributions for the top 6 data job titles.*
 
 #### Insights
@@ -304,7 +304,7 @@ plt.show()
 #### Results
 Here's the breakdown of the highest-paid & most in-demand skills for data analysts in the AANZFTA Countries:
 
-![The Highest Paid & Most In-Demand Skills for Data Analysts in the AANZFTA Countries](image-3.png)
+![The Highest Paid & Most In-Demand Skills for Data Analysts in the AANZFTA Countries](Image/image-3.png)
 *Two separate bar graphs visualizing the highest paid skills and most in-demand skills for data analysts in the AANZFTA Countries.*
 
 #### Insights:
@@ -367,7 +367,7 @@ plt.show()
 
 #### Results
 
-![Most Optimal Skills for Data Analysts in the AANZFTA Countries](image-4.png)
+![Most Optimal Skills for Data Analysts in the AANZFTA Countries](Image/image-4.png)
 *A scatter plot visualizing the most optimal skills (high paying & high demand) for data analysts in the AANZFTA Countries*
 
 #### **Insights:**
