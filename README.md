@@ -398,7 +398,7 @@ Throughout this project, I got a much clearer picture of the data analyst job ma
 
 This project gave me some big-picture insights about the data job market, and here’s what stood out:
 
-- **Skill Demand and Salary**: There’s a pretty obvious link between the skills that are in-demand and the salaries they command. Advanced and specialized skills like **Python** and **Oracle** are often associated with higher pay – it’s a classic case of "the more you know, the more you can earn."
+- **Skill Demand and Salary**: There’s a pretty obvious link between the skills that are in-demand and the salaries they command. Advanced and specialized skills like **Python** and **Looker** are often associated with higher pay – it’s a classic case of "the more you know, the more you can earn."
 
 - **Shifting Market Trends**: The data job market is dynamic. Skill demand shifts, sometimes quickly, and keeping up with those changes is essential for career growth. It’s a reminder that adaptability is key in the tech world.
 
